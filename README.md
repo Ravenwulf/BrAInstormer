@@ -11,7 +11,7 @@ App that generates a list of problems with an optional modifier.
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-node
+   $ cd BrAInstormer
    ```
 
 4. Install the requirements
